@@ -12,11 +12,6 @@
 
 ignite-rn-02-ignite-teams
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 <p align="center">
   Feito com 💜 by Rocketseat
